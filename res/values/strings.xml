@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Zumba Classes</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_class_list">class List</string>
+    <string name="may_mor_image">mayMorImage</string>
+    <string name="mario_image">marioImage</string>
+    <string name="title_activity_teachers_list">Teachers List</string>
+    <string name="title_activity_display_class">Display Class</string>
+
+</resources>
